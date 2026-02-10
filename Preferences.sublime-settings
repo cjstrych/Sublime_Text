@@ -27,7 +27,7 @@
     // --- VISUALS & UI ---
     "caret_extra_width": 2,
     "caret_style": "smooth",
-    "color_scheme": "MonokaiFree.sublime-color-scheme",
+    "color_scheme": "Monokai.sublime-color-scheme",
     "font_size": 18,
     "highlight_line": true,
     "highlight_modified_tabs": true,
