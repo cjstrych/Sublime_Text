@@ -1,0 +1,25 @@
+[
+    // --- UNSAVED TAB TEXT ---
+    {
+        "class": "tab_label",
+        "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
+        "fg": [255, 0, 0],  // BRIGHT RED TEXT
+        "font.bold": true   // BOLD FONT WEIGHT
+    },
+
+    // --- UNSAVED TAB CLOSE BUTTON ---
+    {
+        "class": "tab_close_button",
+        "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
+        "layer0.tint": [255, 0, 0], // RED ICON TINT
+        "layer0.opacity": 1.0       // ENSURE ICON IS FULLY VISIBLE
+    },
+
+    // --- UNSAVED TAB BACKGROUND ---
+    {
+        "class": "tab_control",
+        "attributes": ["dirty"],
+        "layer0.tint": [80, 0, 0],  // DARK CRIMSON/BLOOD-RED BACKGROUND
+        "layer0.opacity": 1.0       // FULL OPACITY FOR A SOLID FILL
+    }
+]
