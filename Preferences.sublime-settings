@@ -1,0 +1,38 @@
+{
+    // --- EDITOR BEHAVIOR ---
+    "default_line_ending": "unix",
+    "ensure_newline_at_eof_on_save": true,
+    "find_selected_text": true,
+    "index_files": true,
+    "preview_on_click": false,
+    "scroll_past_end": true,
+    "show_definitions": true,
+    "spell_check": true,
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": "auto",
+
+    // --- SELECTION CLARITY ---
+    "always_show_minimap_viewport": true,
+    "draw_selection_border": true,
+    "draw_white_space": "selection",
+    "match_selection": true,
+    "selection_border_width": 8,
+
+    // --- SYSTEM ---
+    "ignored_packages": ["Vintage",
+    ],
+
+    // --- VISUALS & UI ---
+    "caret_extra_width": 2,
+    "caret_style": "smooth",
+    "color_scheme": "MonokaiFree.sublime-color-scheme",
+    "font_size": 18,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
+    "line_numbers": true,
+    "rulers": [80, 120],
+    "smooth_scroll": true,
+    "theme": "Default Dark.sublime-theme",
+}
