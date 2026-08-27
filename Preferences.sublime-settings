@@ -21,8 +21,9 @@
     "selection_border_width": 8,
 
     // --- SYSTEM ---
-    "ignored_packages": ["Vintage",
-    ],
+	"ignored_packages": [
+		"Vintage",
+	],
 
     // --- VISUALS & UI ---
     "caret_extra_width": 2,
